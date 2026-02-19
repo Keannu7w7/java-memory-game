@@ -31,3 +31,19 @@ The project follows the MVC design pattern:
 ## Author
 
 Mateo Villacis
+
+## Screenshots
+
+### Main Menu
+![Menu](c1.png)
+
+### Level Selection
+![Level](c2.png)
+
+### Gameplay
+![Gameplay](c3.png)
+
+### Score Screen
+![Score](puntaje.png)
+
+
